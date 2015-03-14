@@ -2,6 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppStoreFileSize</key>
+	<integer>28634575</integer>
+	<key>AppStoreFileSizeValid</key>
+	<true/>
+
 	<key>items</key>
     	<array>
         	<dict>
@@ -37,16 +42,17 @@
 			<string>Applications/jianzhimao.app/AppIcon60x60@2x.png</string>
 		</array>
 		<key>SigningIdentity</key>
-		<string>iPhone Distribution: hu juan (8EYRWA5YD2)</string>
+		<string>iPhone Developer: hu juan (M77TJ5CB4V)</string>
 	</dict>
 	<key>ArchiveVersion</key>
 	<integer>2</integer>
+	<key>Comment</key>
+	<string>测试免越狱包</string>
 	<key>CreationDate</key>
-	<date>2015-03-13T06:28:26Z</date>
+	<date>2015-03-14T03:34:07Z</date>
 	<key>Name</key>
 	<string>jianzhimao</string>
 	<key>SchemeName</key>
 	<string>jianzhimao</string>
 </dict>
 </plist>
-
